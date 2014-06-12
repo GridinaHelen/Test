@@ -1,0 +1,20 @@
+<html>
+<head>
+<style type="text/css">
+.main_border{border:1px solid#000000; color: green;border:1;font-size: 12pt;}
+.header     { text-align:center;color:brown}
+DIV         {position:absolute}
+
+font       { font-size: 12pt; color: green; font-family: "Arial" }
+ 
+font.text2 { font-size: 12pt; color: blue; font-family: "Arial" } 
+
+body       {  color: #990000;
+	   background-color: #FFCC66;
+            font-size: 8pt;
+	   
+	   }
+p{font-family:Verdana;font-size:12px;margin:15px;}
+</style> 
+</head>
+</html>
